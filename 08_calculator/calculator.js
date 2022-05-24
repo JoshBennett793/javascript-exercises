@@ -17,8 +17,6 @@ const factorial = (n) => {
   return n * factorial(n - 1);
 }
 
-
-
 // Do not edit below this line
 module.exports = {
   add,
